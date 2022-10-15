@@ -5,7 +5,6 @@ tags:
 categories: []
 date: 2022-10-15 17:37:00
 ---
-
 簡單模擬題
 
 題目滿好笑的
@@ -33,7 +32,7 @@ LANG: C++
 */
 #include <iostream>
 #include <fstream>
-#include <cstring>
+#include <string>
 #define MAXSIZE 20
 #define cin fin
 #define cout fout
