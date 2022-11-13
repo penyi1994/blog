@@ -2,3 +2,5 @@ menu:
   Home: /
   Archives: /archives
   Links: /links
+  
+recent_posts_limits: 20
