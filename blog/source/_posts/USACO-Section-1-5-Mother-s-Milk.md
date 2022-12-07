@@ -5,7 +5,6 @@ tags:
 categories: []
 date: 2022-11-13 20:38:00
 ---
-
 BFS
 
 ```c++
@@ -70,7 +69,7 @@ int main() {
     Q.pop();
     used[curState.milk[0]][curState.milk[1]][curState.milk[2]] = true;
     
-    // pour A into B
+    // pour i into j
     for (int i = 0; i < 3; i++)
       for (int j = 0; j < 3; j++)
         if (i != j) {
